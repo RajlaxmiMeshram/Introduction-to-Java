@@ -12,7 +12,7 @@ public static void main(String[] args) {
         		     int marks = (m1+m2+m3)/3;              
 System.out.println(s);
 	                 System.out.print(marks);
-	                 
+	                 System.out.println("Master 2.0 By Shaheer Alam 25144");
 // 	                 System.out.print(m2+" " );
 // 	                 System.out.print(m3);
 		        
